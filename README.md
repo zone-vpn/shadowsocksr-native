@@ -1,5 +1,3 @@
-## 这是我见过速度最快和最棒的vpn服务，可惜目前还没有android客户端可用，技术一流，但是目前就是不太方便使用，等待吧~
-
 ![shadowsocksr-native](https://avatars0.githubusercontent.com/u/30504070?s=200&v=4)
 
 <!--
